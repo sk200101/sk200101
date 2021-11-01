@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shaurya Kaushik
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to collaborate on c++ and AI projects
+- 📫 Email me at shaurya200101@gmail.com
